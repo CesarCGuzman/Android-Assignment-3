@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameLabel">Name:</string>
+    <string name="nameHint">Enter Name</string>
+    <string name="ageLabel">Age:</string>
+    <string name="ageHint">Enter Age</string>
+    <string name="feelingQuestion">How you feeling:</string>
+    <string name="feelBtnLabel">Tell Us</string>
+    <string name="btnSubmitLabel">Submit</string>
+    <string name="feelingQuestion2">How are you feeling?</string>
+    <string name="btnCancelLabel">Cancel</string>
+    <string name="btnBackLabel">Back</string>
+</resources>
